@@ -1,4 +1,4 @@
-# git-practice
+# Git practice
 
 Practicing Git &amp; Github for collaboration.
 
